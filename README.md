@@ -66,8 +66,8 @@ python kompas_news_report.py
 You will be prompted to enter several inputs:
 
 - **Keyword:** The keyword for news search (e.g., "panda pink cafe").
-- **From Email:** Your Gmail address (e.g., youremail@gmail.com).
-- **To Email:** The recipient's email address. (e.g., dops@sonar.id)
+- **From Email:** Your Gmail address (e.g., fulan@gmail.com).
+- **To Email:** The recipient's email address. (e.g., johndoe@gmail.com)
 - **Password:** The app password generated in Step 1.
 - **Number of Pages to Scrape:** Number of pages to scrape from Kompas (e.g., 5).
 
